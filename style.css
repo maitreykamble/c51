@@ -1,0 +1,36 @@
+
+           h1{
+                color:white;
+                
+                
+            }
+
+            p,h2{
+               text-align: center;
+            }
+            
+            .header{
+                background-color: cadetblue;
+                flex-direction: column;
+                justify-content: space-around;
+                
+            }
+            .menu{
+                display: flex;
+                justify-content: flex-end;
+                
+            }
+            .grid{
+                
+               background-color: lightyellow;
+                display:flex;
+                flex-wrap: wrap;
+                justify-content: space-evenly;
+
+            }
+            .footer{
+                background-color:darkcyan;
+                display: flex;
+                justify-content: flex-end;
+            }
+    
